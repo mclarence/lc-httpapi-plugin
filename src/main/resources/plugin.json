@@ -1,0 +1,7 @@
+{
+  "name": "lc-httpapi-plugin",
+  "description": "HTTP api for LunarCore",
+  "version": "1.0.0",
+  "mainClass": "au.id.clarence.lchttpapiplugin.LcHttpApiPlugin",
+  "api": 1
+}
